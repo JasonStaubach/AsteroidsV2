@@ -1,0 +1,24 @@
+{
+  "name": "asteroidsv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonStaubach/AsteroidsV2.git"
+  },
+  "keywords": [],
+  "author": "Jason S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonStaubach/AsteroidsV2/issues"
+  },
+  "homepage": "https://github.com/JasonStaubach/AsteroidsV2#readme",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
